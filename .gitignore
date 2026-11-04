@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+config.json
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+usage.jsonl

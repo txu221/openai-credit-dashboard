@@ -1,0 +1,9 @@
+{
+  "mode": "auto",
+  "grant_total": 68,
+  "grant_start": "2026-10-10",
+  "expiry": "2026-11-09",
+  "port": 8765,
+  "sessions_dir": "~/.codex/sessions",
+  "log_file": null
+}

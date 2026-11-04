@@ -1,0 +1,8 @@
+{
+  "mode": "local",
+  "grant_total": 68,
+  "grant_start": "2026-10-10",
+  "expiry": "2026-11-09",
+  "sessions_dir": "examples",
+  "log_file": "examples/demo.jsonl"
+}
